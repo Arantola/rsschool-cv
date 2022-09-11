@@ -15,7 +15,7 @@ function multiply(a, b){
 }
 ```
 ### Work experience
-RS School CV
+[RS School CV](https://github.com/Arantola/rsschool-cv/blob/gh-pages/cv.md)
 ### Education
 [htmlacademy courses](https://htmlacademy.ru/courses)
 ### Language
