@@ -18,5 +18,6 @@ function multiply(a, b){
 [RS School CV](https://github.com/Arantola/rsschool-cv/blob/gh-pages/cv.md)
 ### Education
 [htmlacademy courses](https://htmlacademy.ru/courses)
+[The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 ### Language
 English B2
